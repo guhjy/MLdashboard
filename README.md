@@ -15,10 +15,19 @@ A dashboard is a way to make an interactive cloud-based computational engine ava
 - Easy investigation of interactions and subgroups using a GLMM designed for longitudinal hierarchical data, coupled with a plotting interface.
 - Effortless evaluation of statistical inferences made under varying assumptions, such as model specification or the inclusion of confounding variables and mixed effects.
 
-# Media
+# Information
+### Dashboard
 - [Slide Deck (pdf)](https://drive.google.com/open?id=0B_PCdKnIVZiDU19sSlcydV9IVDQ)
 - [Poster (pdf)](https://drive.google.com/open?id=0B_PCdKnIVZiDOHVnbjFZYndoMjA)
 
-# Examples
+### Dataset
+- [Slide Deck (pdf)](https://drive.google.com/open?id=1vqbvuoytVa8-ecyX158ssOnvzKlJ81pL)
+- [Poster1 (pdf)](https://drive.google.com/open?id=1Ay3i1Zx1hRaYBZn-21lz9K07SJNSkPQG)
+- [Poster2 (pdf)](https://drive.google.com/open?id=10ehpJlLt5lKdDTwz91fOAXJ-_VCEZdHz)
+
+# shinyapps.io Examples
 - [ShinyApp (Genomic Data)](https://nwisniewski.shinyapps.io/ShinyMOD_v1_0/)
 - [ShinyApp (NBA Basketball Data)](https://nwisniewski.shinyapps.io/ShinyNBA_v1_0/)
+
+# Usage
+Fork the repository and then clone it.
