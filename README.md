@@ -1,11 +1,11 @@
-# Introduction
+# About
 
 Predictive analyses benefit from flexible, interactive tools that allow for fast evaluation and comparison of multiple machine learning approaches. At the same time, issues of non-reproducibility have been attributed to related statistical issues, including multiple testing and selective reporting in studies where there is greater flexibility in designs, definitions, outcomes, and analytical modes.
 
 A dashboard is a way to make an interactive cloud-based computational engine available alongside data sharing and print publication, enabling full transparency while creating a more attractive and impacting publication. Here we create a machine learning dashboard in RShiny.
 
 
-# Features
+## Features
 - Simple GUI to many powerful machine learning methods.
 - Preconfigurable, to walk the reader directly through ananalysis.
 - Cloud-based (e.g. AWS) or locally hosted.
